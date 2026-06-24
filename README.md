@@ -33,21 +33,6 @@ I am a Software Engineering student and Full-Stack Developer based in **Udaipur,
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Naval Gusar Responsive CSS" />
 </p>
 
----
-
-## 📊 Live GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navalgusar&show_icons=true&theme=dark&hide_border=true&bg_color=141414&title_color=E50914&icon_color=E50914&text_color=FFFFFF" alt="Naval Gusar GitHub Performance Statistics" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navalgusar&layout=compact&theme=dark&hide_border=true&bg_color=141414&title_color=E50914&text_color=FFFFFF" alt="Naval Gusar Primary Programming Languages Map" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navalgusar&theme=dark&hide_border=true&background=141414&ring=E50914&fire=E50914&currStreakLabel=FFFFFF" alt="Naval Gusar Open Source Commit Streak Tracker" width="97%" />
-</p>
-
----
-
 ## 🤝 Connect with Naval Gusar
 
 <p align="left">
