@@ -42,4 +42,11 @@ I am a Software Engineering student and Full-Stack Developer based in **Udaipur,
   <a href="https://github.com/Navalgusar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Naval Gusar Official GitHub Profile Handle" />
   </a>
+  <a href="https://www.instagram.com/navalgusar/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Follow Naval Gusar on Instagram" />
+  </a>
+  <a href="https://www.freecodecamp.org/navalgusar" target="_blank">
+    <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" alt="Naval Gusar freeCodeCamp Profile Portfolio" />
+  </a>
+</p>
 </p>
