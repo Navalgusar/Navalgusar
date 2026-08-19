@@ -1,39 +1,16 @@
-# 👋 Hello, I'm Naval Gusar | Full-Stack Developer & Machine Learning Engineer
+# Hello, I'm Naval Gusar 
 
-## 🚀 About Naval Gusar
 I am a Software Engineering student and Full-Stack Developer based in **Udaipur, Rajasthan, India**. I specialize in building concurrent backend architectures with Flask, training unsupervised machine learning models, and designing modern, glassmorphism web interfaces. 
 
-* 🎓 **Focus:** Computer Science & Engineering (B.Tech)
-* 🛠️ **Expertise:** Scalable ML pipelines, vector space similarity metrics, and RESTful microservices.
-* 📫 **Email:** [navalgusar@gmail.com](mailto:navalgusar@gmail.com)
-* 🌐 **Current project:** [github.com/Navalgusar/flask-ai-ml-python-projects](https://github.com/Navalgusar)
+*  **Focus:** Computer Science & Engineering (B.Tech)
+*  **Expertise:** Scalable ML pipelines, vector space similarity metrics, and RESTful microservices.
+*  **Email:** [navalgusar@gmail.com](mailto:navalgusar@gmail.com)
+*  **Current project:** [github.com/Navalgusar/flask-ai-ml-python-projects](https://github.com/Navalgusar)
 
 ---
 
-## 🛠️ Technical Toolbox
 
-### Backend & Core Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Naval Gusar Python Developer" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Naval Gusar Flask Backend" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="Naval Gusar API Engineering" />
-</p>
-
-### Data Science & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Naval Gusar Machine Learning scikit-learn" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Naval Gusar Data Analytics Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Naval Gusar NumPy Arrays" />
-</p>
-
-### UI & Frontend Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Naval Gusar JavaScript UI" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Naval Gusar HTML5 Layouts" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Naval Gusar Responsive CSS" />
-</p>
-
-## 🤝 Connect with Naval Gusar
+## Connect with Naval Gusar
 
 <p align="left">
   <a href="mailto:navalgusar@gmail.com">
