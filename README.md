@@ -14,9 +14,6 @@ A CS student passionate about system architecture, currently mastering the funda
   <a href="mailto:navalgusar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Contact Naval Gusar via Email" />
   </a>
-  <a href="https://github.com/Navalgusar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Naval Gusar Official GitHub Profile Handle" />
-  </a>
   <a href="https://www.instagram.com/navalgusar/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Follow Naval Gusar on Instagram" />
   </a>
